@@ -1,0 +1,13 @@
+table{
+    background-color: rgb(143, 143, 150);
+}
+
+
+th{
+    color:chartreuse;
+    font-family: italic;
+}
+
+td{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
